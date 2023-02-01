@@ -1,0 +1,1 @@
+// use indent -kr -i8 main.c 来规范代码
